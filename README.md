@@ -36,7 +36,7 @@ python3 -m pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
-It is needed to create a file `.env` in the root folder to add your TOKKEN.
+It is needed to create a file `.env` in the root folder to add your TOKEN.
 Your token you can become by @BotFather:
 `/start
 /newbot`
